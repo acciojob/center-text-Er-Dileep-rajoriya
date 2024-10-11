@@ -8,9 +8,9 @@
             align-items: center; /* Center vertically */
             justify-content: center; /* Center horizontally */
 }
-h1 {
+center {
 	color: white; /* White text color */
 	text-align : center;
 	margin-top : -400px;
-	font-size : 15px
+	
 }
